@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Gustavo Assunção
 
+Hello, I'm a computer science student at Federal University of Piauí
+
 <div align="center">
   <a href="https://github.com/gustavogk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogk&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
