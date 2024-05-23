@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Gustavo Assunção
 
-Hello, I'm a computer science student at Federal University of Piauí
+👋 Hello! I'm Gustavo Assunção, a software developer passionate about creating solutions that stand out for their precision and performance, with a strong interest and experience in front-end development. Although my career was more focused on this area, I also contributed significantly to back-end projects. I have a degree in Computer Science from UFPI (Federal University of Piauí), having completed my degree in March 2024. I highly value continuous learning and I intend to continue investing in my career, including completing a postgraduate degree soon.
 
 <div align="center">
   <a href="https://github.com/gustavogk">
